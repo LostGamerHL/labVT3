@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<class>
+    <student rollno = "393">
+        <name>Hamood</name>
+        <surname>Mohammed</surname>
+        <lastname>Bruh</lastname>
+        <birthday>09/11/2002</birthday>
+        <group>051004</group>
+        <id>228</id>
+        <role>user</role>
+    </student>
+
+    <student rollno = "395">
+        <name>Vaneet</name>
+        <surname>Gupta</surname>
+        <lastname>Vinni</lastname>
+        <birthday>03/03/2002</birthday>
+        <group>951004</group>
+        <id>69</id>
+        <role>user</role>
+    </student>
+</class>
